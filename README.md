@@ -1,0 +1,1 @@
+I will create my own website using HTML, CSS and some JS. I'm excited to see what I'm going to come up with lol.
