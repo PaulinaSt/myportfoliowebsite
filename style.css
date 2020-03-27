@@ -1,5 +1,5 @@
 p {
-    font-family: 'helvetica neue', helvetica, sans-serif;
+    font-family: 'IBM Plex Sans Condensed', helvetica, sans-serif;
     letter-spacing: 1px;
     text-transform: uppercase;
     text-align: center;
@@ -13,3 +13,9 @@ p {
     display: inline-block;
     cursor: pointer;
   }
+
+h1 {
+    font-family: 'IBM Plex Sans Condensed', helvetica, sans-serif;
+    color: pink;
+    background-color: black;
+}
